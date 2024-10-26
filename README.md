@@ -42,6 +42,14 @@
 | Projects | Homepage |
 |------|------|
 
+# Deep dive on Triton
+
+| Name | Linkages |
+|------|------|
+| MLIR Official Website | https://mlir.llvm.org/ |
+| [Triton-MLIR] Remaining issues in migration  Remaining issues in migration | https://github.com/triton-lang/triton/issues/673 |
+| AMDGPU support for triton MLIR | https://github.com/triton-lang/triton/issues/1073 |
+
 # Triton in China
 
 ## Triton Meetingups
