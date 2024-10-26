@@ -2,7 +2,32 @@
   <img src="https://cdn.openai.com/triton/assets/triton-logo.png" alt="Triton logo" width="88" height="100">
 </div>
 
-# Triton
+# Trition
+
+## Triton and Triton based Compiler
+
+| Projects | Homepage |
+|------|------|
+| Triton Official Project | https://github.com/openai/triton |
+| Triton CPU | https://github.com/triton-lang/triton-cpu |
+| Intel XPU | https://github.com/intel/intel-xpu-backend-for-triton/tree/main |
+| AMD's Triton Project | https://github.com/ROCm/triton/tree/triton-mlir |
+| Experimental CPU Backend for Triton | https://github.com/pytorch-labs/triton-cpu |
+| Microsoft Trition Shared | https://github.com/microsoft/triton-shared |
+| JAX Triton  JAX Triton | https://github.com/jax-ml/jax-triton |
+| Triton NPU(Experimental) | https://github.com/gfvvz/triton-npu |
+
+## Projects Using Triton
+| Projects | Homepage |
+|------|------|
+
+# Deep dive on Triton
+
+| Name | Linkages |
+|------|------|
+| MLIR Official Website | https://mlir.llvm.org/ |
+| [Triton-MLIR] Remaining issues in migration  Remaining issues in migration | https://github.com/triton-lang/triton/issues/673 |
+| AMDGPU support for triton MLIR | https://github.com/triton-lang/triton/issues/1073 |
 
 ## Triton Conference
 
@@ -23,32 +48,6 @@
 | APP | Joining the Triton Slack Channel |
 |------|------|
 | https://triton-lang.slack.com | [Requests for Invitation to Slack](https://github.com/openai/triton/discussions/2329) |
-
-# Trition related Projects
-
-## Triton and Triton based Compiler
-
-| Projects | Homepage |
-|------|------|
-| Triton Official Project | https://github.com/openai/triton |
-| Triton CPU | https://github.com/triton-lang/triton-cpu |
-| Intel XPU | https://github.com/intel/intel-xpu-backend-for-triton/tree/main |
-| AMD's Triton Project | https://github.com/ROCm/triton/tree/triton-mlir |
-| Experimental CPU Backend for Triton | https://github.com/pytorch-labs/triton-cpu |
-| Microsoft Trition Shared | https://github.com/microsoft/triton-shared |
-| JAX Triton | https://github.com/jax-ml/jax-triton |
-
-## Projects Using Triton
-| Projects | Homepage |
-|------|------|
-
-# Deep dive on Triton
-
-| Name | Linkages |
-|------|------|
-| MLIR Official Website | https://mlir.llvm.org/ |
-| [Triton-MLIR] Remaining issues in migration  Remaining issues in migration | https://github.com/triton-lang/triton/issues/673 |
-| AMDGPU support for triton MLIR | https://github.com/triton-lang/triton/issues/1073 |
 
 # Triton in China
 
