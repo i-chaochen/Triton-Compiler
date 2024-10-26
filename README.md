@@ -12,7 +12,7 @@
 | Triton CPU | https://github.com/triton-lang/triton-cpu |
 | Intel XPU | https://github.com/intel/intel-xpu-backend-for-triton/tree/main |
 | AMD's Triton Project | https://github.com/ROCm/triton/tree/triton-mlir |
-| Experimental CPU Backend for Triton | https://github.com/pytorch-labs/triton-cpu |
+| Triton CPU(Experimental) | https://github.com/pytorch-labs/triton-cpu |
 | Microsoft Trition Shared | https://github.com/microsoft/triton-shared |
 | JAX Triton  JAX Triton | https://github.com/jax-ml/jax-triton |
 | Triton NPU(Experimental) | https://github.com/gfvvz/triton-npu |
