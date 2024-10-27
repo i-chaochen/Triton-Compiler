@@ -28,11 +28,13 @@
 | Name | Linkages |
 |------|------|
 | MLIR Official Website | https://mlir.llvm.org/ |
-| MLIR Language Reference | https://mlir.llvm.org/docs/LangRef/ |
+| MLIR Language Reference  MLIR Language Reference | https://mlir.llvm.org/docs/LangRef/  https://mlir.llvm.org/docs/LangRef/ |
 | MLIR Tutorials | https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf |
 
 ## Triton MLIR Infra.
 
+| Name | Linkages |
+|------|------|
 | [Triton-MLIR] Remaining issues in migration  Remaining issues in migration | https://github.com/triton-lang/triton/issues/673 |
 | AMDGPU support for triton MLIR | https://github.com/triton-lang/triton/issues/1073 |
 
