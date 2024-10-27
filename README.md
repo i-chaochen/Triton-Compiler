@@ -2,9 +2,9 @@
   <img src="https://cdn.openai.com/triton/assets/triton-logo.png" alt="Triton logo" width="88" height="100">
 </div>
 
-# Trition
+# Trition Projects
 
-## Triton and Triton based Compiler
+## Triton for different Arch.
 
 | Projects | Homepage |
 |------|------|
@@ -14,6 +14,7 @@
 | Triton NPU(Experimental) | https://github.com/gfvvz/triton-npu |
 
 ## Projects Using Triton
+
 | Projects | Homepage |
 |------|------|
 | Intel XPU | https://github.com/intel/intel-xpu-backend-for-triton/tree/main |
@@ -21,7 +22,7 @@
 | Microsoft Trition Shared | https://github.com/microsoft/triton-shared |
 | JAX Triton | https://github.com/jax-ml/jax-triton |
 
-# Deep dive on Triton/MLIR
+# Triton Code
 
 ## MLIR
 
@@ -37,6 +38,8 @@
 |------|------|
 | [Triton-MLIR] Remaining issues in migration  Remaining issues in migration | https://github.com/triton-lang/triton/issues/673 |
 | AMDGPU support for triton MLIR | https://github.com/triton-lang/triton/issues/1073 |
+
+# Triton Communities
 
 ## Triton Conference
 
