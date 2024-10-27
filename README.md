@@ -29,8 +29,10 @@
 | Name | Linkages |
 |------|------|
 | MLIR Official Website | https://mlir.llvm.org/ |
-| MLIR Language Reference  MLIR Language Reference | https://mlir.llvm.org/docs/LangRef/  https://mlir.llvm.org/docs/LangRef/ |
+| MLIR Language Reference  MLIR Language Reference | https://mlir.llvm.org/docs/LangRef/ |
 | MLIR Tutorials | https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf |
+| MLIR Toy Language | https://mlir.llvm.org/docs/Tutorials/Toy/ |
+| MLIR Talks | https://mlir.llvm.org/talks/ |
 
 ## Triton MLIR Infra.
 
