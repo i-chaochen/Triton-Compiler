@@ -92,3 +92,9 @@
 | Projects | Linkage |
 |--------|------|
 | Accelerated Computing Online | https://www.acceleratedcomputingonline.com/ |
+
+## Another Triton Resouce
+| Projects | Linkage |
+|--------|------|
+| Triton Resource | https://github.com/rkinas/triton-resources |
+
